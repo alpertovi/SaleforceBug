@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "SalesforceBug",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "ancestorId": "04t1P000000RN7XQAW"
+        }
+    ],
+    "namespace": "ZIPARI",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "48.0",
+    "packageAliases": {
+        "SalesforceBug": "0Ho1P000000000aSAA",
+        "SalesforceBug@0.1.0-1": "04t1P000000RN7XQAW"
+    }
+}
